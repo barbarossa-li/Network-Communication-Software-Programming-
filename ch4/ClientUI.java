@@ -1,4 +1,4 @@
-package ch4;
+package cn.edu.ldu;
 
 import java.io.IOException;
 import java.net.InetAddress;
