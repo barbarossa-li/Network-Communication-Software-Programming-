@@ -1,4 +1,4 @@
-package cn.edu.ldu;
+package ch4;
 import java.util.Random;
 /**
  * 功能：石头剪刀布协议
